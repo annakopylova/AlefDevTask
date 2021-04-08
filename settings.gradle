@@ -1,0 +1,6 @@
+include ':core'
+include ':network'
+include ':feature_content'
+include ':feature_list'
+include ':app'
+rootProject.name = "AlefDevTask"
